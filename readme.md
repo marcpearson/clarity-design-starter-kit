@@ -15,7 +15,7 @@ It has a Gulp-powered build system with these features:
 
 To use this template, your computer needs:
 
-- [NodeJS](https://nodejs.org/en/) (Version 10, still not compatible with node 12)
+- [NodeJS](https://nodejs.org/en/) (Version 10 or greater recommended)
 - [Git](https://git-scm.com/)
 - [Yarn](https://yarnpkg.com/)
 
