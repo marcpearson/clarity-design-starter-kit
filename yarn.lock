@@ -649,15 +649,15 @@
     lodash "^4.17.13"
     to-fast-properties "^2.0.0"
 
-"@clr/icons@^2.2.0":
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/@clr/icons/-/icons-2.2.0.tgz#cb52e05a8a8dc889c9c87505606c7fe4d8442455"
-  integrity sha512-6qh9ahGJqEpw5Mv/JvN5KMjb8A4puSgT4RkSSYJMhlk0sN/OVBz6b0I8o9KPhXYEJrZLQeK1H9PaeSdeVXb6mA==
+"@clr/icons@^2.2.1":
+  version "2.2.1"
+  resolved "https://registry.yarnpkg.com/@clr/icons/-/icons-2.2.1.tgz#56b22746d98e144cca6b44aa0d903b7fc594c712"
+  integrity sha512-nFoRAsXLt6bTeAAtNCvlcRmfPH/ThJyD3dHO1qFzPkzV49Kf3yN4hkha6+xTZic4QR9j0VwUCg2xzzmu7Xlg0Q==
 
-"@clr/ui@^2.2.0":
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/@clr/ui/-/ui-2.2.0.tgz#d6d3730d94cf8b57e26c989dc91a80d966088eec"
-  integrity sha512-nJ7eVnvAcSy+3O0HsVB482xq4lh51cjw7qRsMIehnX8VVLtdq7Stq+Av/nsrL1b1NxlsRo4DCnNOd3C024jT/Q==
+"@clr/ui@^2.2.1":
+  version "2.2.1"
+  resolved "https://registry.yarnpkg.com/@clr/ui/-/ui-2.2.1.tgz#2d86474a16259cef5291673d0b7536782ca28f3a"
+  integrity sha512-qLJqnbhM8uLIkRxOwe4hQCQ5P80i3n2U8zB4ekIzuSHcIsLEV7E4UWUSeMhDZhgTvSqHlZrl9DMcY7oP1z+IEA==
 
 "@gulp-sourcemaps/identity-map@1.X":
   version "1.0.2"

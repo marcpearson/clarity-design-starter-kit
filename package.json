@@ -8,8 +8,8 @@
         "build": "gulp build --production"
     },
     "dependencies": {
-        "@clr/icons": "^2.2.0",
-        "@clr/ui": "^2.2.0"
+        "@clr/icons": "^2.2.1",
+        "@clr/ui": "^2.2.1"
     },
     "devDependencies": {
         "@babel/core": "^7.1.2",
