@@ -649,15 +649,15 @@
     lodash "^4.17.13"
     to-fast-properties "^2.0.0"
 
-"@clr/icons@^2.2.1":
-  version "2.2.1"
-  resolved "https://registry.yarnpkg.com/@clr/icons/-/icons-2.2.1.tgz#56b22746d98e144cca6b44aa0d903b7fc594c712"
-  integrity sha512-nFoRAsXLt6bTeAAtNCvlcRmfPH/ThJyD3dHO1qFzPkzV49Kf3yN4hkha6+xTZic4QR9j0VwUCg2xzzmu7Xlg0Q==
+"@clr/icons@3.1.4":
+  version "3.1.4"
+  resolved "https://registry.yarnpkg.com/@clr/icons/-/icons-3.1.4.tgz#6a33c225801cb3c6e9b3f199c5adb71f5b2b187f"
+  integrity sha512-vsqYf/9wSB0W2YpqvfhJQ89dvYnDbblpJj/Vi624X+Ih83jabh0IVepMbqSSfboHyUuBlCRkndLp9yQIhNcjDQ==
 
-"@clr/ui@^2.2.1":
-  version "2.2.1"
-  resolved "https://registry.yarnpkg.com/@clr/ui/-/ui-2.2.1.tgz#2d86474a16259cef5291673d0b7536782ca28f3a"
-  integrity sha512-qLJqnbhM8uLIkRxOwe4hQCQ5P80i3n2U8zB4ekIzuSHcIsLEV7E4UWUSeMhDZhgTvSqHlZrl9DMcY7oP1z+IEA==
+"@clr/ui@3.1.4":
+  version "3.1.4"
+  resolved "https://registry.yarnpkg.com/@clr/ui/-/ui-3.1.4.tgz#21d3b2f6631df8c675b7d5a14f0484419245cdeb"
+  integrity sha512-5IFrC+iqI7hwWRXaFh6OBI51R3WrDnNxAMWu1pNaMaKDYGaTf729fZQ/hPWFWLFUbNjTIrB3IGO2KnHlZ+h9og==
 
 "@gulp-sourcemaps/identity-map@1.X":
   version "1.0.2"
